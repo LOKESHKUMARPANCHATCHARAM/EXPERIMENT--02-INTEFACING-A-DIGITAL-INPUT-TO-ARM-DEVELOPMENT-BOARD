@@ -53,7 +53,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ## STM 32 CUBE PROGRAM :
 ```
 Developed By: lokesh kumar p
-Reg.No:212221240054.
+Reg.No:212222240054.
 
 
 #include "main.h"
@@ -167,8 +167,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![Screenshot 2023-03-28 221528](https://user-images.githubusercontent.com/119644432/228311050-4a3e2d00-7904-4701-be71-83a4338e1046.png)
-![Screenshot 2023-03-28 221451](https://user-images.githubusercontent.com/119644432/228311100-624ea940-0392-43ff-a12b-0cbbcaaa0bc3.png)
+![image].(https://user-images.githubusercontent.com/119644432/228311050-4a3e2d00-7904-4701-be71-83a4338e1046.png)
+![image].(https://user-images.githubusercontent.com/119644432/228311100-624ea940-0392-43ff-a12b-0cbbcaaa0bc3.png)
 
 
  
